@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Rafael!</h1>
 <h3 align="center">AI and Data Science student</h3>
 
-- 🔭 I’m currently working on [AI for NASA API Data](https://github.com/rafael-andre1/Applied-AI-for-NASA-Data)
+- 🔭 I’m currently working on [AI for NASA API Data](https://github.com/rafael-andre1/Applied-AI-for-NASA-Data) & [COMET: Custom Oriented Movie Engine with Taste](https://github.com/rafael-andre1/Letterboxd-Recommendation-System)
 
 - 🌱 I’m currently improving my skills at **FEUP | Master's in Artificial Intelligence**
 
